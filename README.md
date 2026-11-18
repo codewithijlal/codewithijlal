@@ -1,44 +1,37 @@
-<!-- Header Banner --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=220&section=header&text=Syed%20Ijlal%20Haider&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Web%20%26%20Mobile%20App%20Developer&descAlignY=56&descSize=20&animation=fadeIn" width="100%" alt="Syed Ijlal Haider - Full-Stack Web & Mobile App Developer" /> <p align="center"> <a href="https://github.com/codewithijlal"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Syed+Ijlal+Haider+%F0%9F%91%8B;Full-Stack+Developer+%7C+Next.js+%26+React;Cross-Platform+Apps+with+Flutter+%26+React+Native;Clean+Code.+Scalable+Apps.+Great+UX." alt="Typing intro" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=codewithijlal&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile views" /> <a href="https://github.com/codewithijlal?tab=followers"><img src="https://img.shields.io/github/followers/codewithijlal?label=Followers&style=flat-square&color=bb9af7" alt="Followers" /></a> <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Collaboration-9ece6a?style=flat-square" alt="Open to work" /> </p>
-👨‍💻 About Me
+<img src="banner.svg" width="100%" alt="Syed Ijlal Haider, Full Stack Web and Mobile App Developer" />
 
-I'm Syed Ijlal Haider, a full-stack developer who builds fast, modern web apps and cross-platform mobile apps, from pixel-perfect UI to a solid backend and database.
+## About Me
 
-🌐 Web: Production-ready apps with Next.js, React, TypeScript and Tailwind CSS
-📱 Mobile: Cross-platform Android & iOS apps with Flutter (Dart) and React Native
-🗄️ Data: Database design with PostgreSQL, MySQL, MariaDB, MongoDB and Supabase
-🎯 Focus: Clean, maintainable, high-performance code and great user experience
-🤝 Open to: Freelance projects, full-time roles and open-source collaboration
-🛠️ Skills
-🌐 Frontend & Web
-<p> <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Frontend skills" /> </p>
+Hi, I'm Ijlal. I build web and mobile apps, and I enjoy taking an idea all the way from a rough sketch to something people can actually use.
 
-Show Image Show Image Show Image Show Image Show Image
+On the web side I mostly work with Next.js, React and TypeScript, styled with Tailwind CSS. For mobile I use Flutter with Dart, and React Native when a project fits better in the JavaScript world. Behind the apps I set up and manage databases like PostgreSQL, MySQL, MariaDB, MongoDB and Supabase.
 
-📱 Mobile App Development
-<p> <img src="https://skillicons.dev/icons?i=flutter,dart,react,androidstudio&theme=dark" alt="Mobile skills" /> </p>
+I care about clean code, fast load times and interfaces that feel simple to use. Right now I'm open to freelance work and interesting collaborations, so feel free to reach out.
 
-Show Image Show Image Show Image
+<br />
 
-🗄️ Databases & Backend-as-a-Service
-<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase&theme=dark" alt="Database skills" /> </p>
+<img src="skills.svg" width="100%" alt="Skills: Next.js, React, TypeScript, JavaScript, Tailwind CSS, Flutter, Dart, React Native, PostgreSQL, SQL, MariaDB, MongoDB, Supabase" />
 
-Show Image Show Image Show Image Show Image Show Image
+## Projects
 
-🧰 Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark" alt="Tools" /> </p>
-🚀 Featured Projects
-Project	Description	Tech Stack
-Project One	A short one-line description of what it does and who it's for.	Next.js · TypeScript · Tailwind · Supabase
-Project Two	A short one-line description of what it does and who it's for.	Flutter · Dart · Firebase/Supabase
-Project Three	A short one-line description of what it does and who it's for.	React Native · MongoDB
-Project Four	A short one-line description of what it does and who it's for.	React · PostgreSQL
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codewithijlal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithijlal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=codewithijlal&theme=tokyonight&hide_border=true" width="60%" alt="GitHub streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithijlal&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=codewithijlal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%" alt="GitHub trophies" /> </p>
-<div align="center">
-🤝 Connect With Me
+| Project | What it does | Built with |
+|:--|:--|:--|
+| [Project One](https://github.com/codewithijlal/project-one) | Write one short line about this project | Next.js, TypeScript, Supabase |
+| [Project Two](https://github.com/codewithijlal/project-two) | Write one short line about this project | Flutter, Dart |
+| [Project Three](https://github.com/codewithijlal/project-three) | Write one short line about this project | React Native, MongoDB |
 
-GitHub LinkedIn Email Portfolio
+## GitHub Activity
 
-⭐ If you like my work, consider giving my repos a star!
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=codewithijlal&theme=tokyonight&hide_border=true" width="70%" alt="GitHub streak" />
+</p>
 
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer" width="100%" />
+## Get in Touch
+
+If you have a project in mind or just want to talk about code, I'm always happy to hear from people.
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/codewithijlal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
