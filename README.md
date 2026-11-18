@@ -38,7 +38,7 @@ Noor is a Shia companion app I built with React Native and Expo. It brings toget
 
 <br />
 
-<a href="https://github.com/codewithijlal/detention-desk"><img src="detention-preview.png" width="100%" alt="Detention Desk app preview" /></a>
+<a><img src="detention-preview.png" width="100%" alt="Detention Desk app preview" /></a>
 
 ### Detention Desk
 
