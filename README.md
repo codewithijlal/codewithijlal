@@ -14,7 +14,7 @@ I care about clean code, fast load times and interfaces that feel simple to use.
 
 ## Featured Projects
 
-<a><img src="noor-preview.png" width="100%" alt="Noor app preview" /></a>
+<a href="https://github.com/codewithijlal/noor><img src="noor-preview.png" width="100%" alt="Noor app preview" /></a>
 
 ### Noor
 
@@ -35,7 +35,6 @@ Noor is a Shia companion app I built with React Native and Expo. It brings toget
   <img src="https://img.shields.io/badge/Offline%20Ready-E3CB8E?style=flat-square&labelColor=0C1513" alt="Works offline" />
 </p>
 
-[View the repository](https://github.com/codewithijlal/noor)
 
 <br />
 
