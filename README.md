@@ -1,4 +1,4 @@
-<a href="#featured-project"><img src="profile-banner.png" width="100%" alt="Syed Ijlal Haider, Full Stack Web and Mobile App Developer" /></a>
+<a href="#featured-projects"><img src="profile-banner.png" width="100%" alt="Syed Ijlal Haider, Full Stack Web and Mobile App Developer" /></a>
 
 ## About Me
 
@@ -12,7 +12,7 @@ I care about clean code, fast load times and interfaces that feel simple to use.
 
 <img src="skills.svg" width="100%" alt="Skills: Next.js, React, TypeScript, JavaScript, Tailwind CSS, Flutter, Dart, React Native, PostgreSQL, SQL, MariaDB, MongoDB, Supabase" />
 
-## Featured Project
+## Featured Projects
 
 <a href="https://github.com/codewithijlal/noor"><img src="noor-preview.png" width="100%" alt="Noor app preview" /></a>
 
@@ -36,6 +36,33 @@ Noor is a Shia companion app I built with React Native and Expo. It brings toget
 </p>
 
 [View the repository](https://github.com/codewithijlal/noor)
+
+<br />
+
+<a href="https://github.com/codewithijlal/detention-desk"><img src="detention-preview.png" width="100%" alt="Detention Desk app preview" /></a>
+
+### Detention Desk
+
+Detention Desk is a mobile app I built with React Native for customs shift officers. It runs on Android, iPhone and the web, and it turns the daily paperwork of a shift into a few taps. Every detention gets a 15 day countdown, so on day 15 the app asks whether the goods were released or need to be seized. From there it fills the seizure report and brief facts straight from the receipt and exports a ready to print PDF.
+
+It also keeps the monthly liquor and cigarette register up to date on its own, with exports to Excel, PDF or Word, and lists every case still missing its value, duty or taxes so nothing slips through. There's a full dark mode for night shifts too.
+
+<p align="center">
+  <img src="detention-1.png" width="24%" alt="15 day reminders" />
+  <img src="detention-2.png" width="24%" alt="One tap seizure report PDF" />
+  <img src="detention-3.png" width="24%" alt="Liquor and cigarette register" />
+  <img src="detention-4.png" width="24%" alt="Pending assessments in dark mode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Web-1E6F5C?style=flat-square&logo=googlechrome&logoColor=white" alt="Web" />
+  <img src="https://img.shields.io/badge/PDF%20%7C%20Excel%20%7C%20Word%20Export-C9372C?style=flat-square" alt="Exports" />
+</p>
+
+[View the repository](https://github.com/codewithijlal/detention-desk)
 
 ## GitHub Activity
 
