@@ -1,4 +1,4 @@
-<img src="banner.svg" width="100%" alt="Syed Ijlal Haider, Full Stack Web and Mobile App Developer" />
+<img src="banner (1).svg" width="100%" alt="Syed Ijlal Haider, Full Stack Web and Mobile App Developer" />
 
 ## About Me
 
