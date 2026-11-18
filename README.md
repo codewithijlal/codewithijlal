@@ -21,7 +21,7 @@ I care about clean code, fast load times and interfaces that feel simple to use.
 Noor is a Shia companion app I built with React Native and Expo. It brings together prayer times, the Quran, hadith, du'as and ziyarat in one place, and it works in English, Urdu and Arabic. It's free, has no ads and works offline, because I wanted something people could rely on anywhere without distractions.
 
 <p align="center">
-  <img src="noor-today.png" width="19%" alt="Today screen" />
+  <img src="today.png" width="19%" alt="Today screen" />
   <img src="noor-prayer.png" width="19%" alt="Prayer times screen" />
   <img src="noor-quran.png" width="19%" alt="Quran screen" />
   <img src="noor-library.png" width="19%" alt="Library screen" />
