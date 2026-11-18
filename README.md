@@ -14,7 +14,7 @@ I care about clean code, fast load times and interfaces that feel simple to use.
 
 ## Featured Project
 
-<a href="https://github.com/codewithijlal/noor"><img src="images/noor-preview.png" width="100%" alt="Noor app preview" /></a>
+<a href="https://github.com/codewithijlal/noor"><img src="noor-preview.png" width="100%" alt="Noor app preview" /></a>
 
 ### Noor
 
