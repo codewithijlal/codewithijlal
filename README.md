@@ -12,13 +12,30 @@ I care about clean code, fast load times and interfaces that feel simple to use.
 
 <img src="skills.svg" width="100%" alt="Skills: Next.js, React, TypeScript, JavaScript, Tailwind CSS, Flutter, Dart, React Native, PostgreSQL, SQL, MariaDB, MongoDB, Supabase" />
 
-## Projects
+## Featured Project
 
-| Project | What it does | Built with |
-|:--|:--|:--|
-| [Project One](https://github.com/codewithijlal/project-one) | Write one short line about this project | Next.js, TypeScript, Supabase |
-| [Project Two](https://github.com/codewithijlal/project-two) | Write one short line about this project | Flutter, Dart |
-| [Project Three](https://github.com/codewithijlal/project-three) | Write one short line about this project | React Native, MongoDB |
+<a href="https://github.com/codewithijlal/noor"><img src="images/noor-preview.png" width="100%" alt="Noor app preview" /></a>
+
+### Noor
+
+Noor is a Shia companion app I built with React Native and Expo. It brings together prayer times, the Quran, hadith, du'as and ziyarat in one place, and it works in English, Urdu and Arabic. It's free, has no ads and works offline, because I wanted something people could rely on anywhere without distractions.
+
+<p align="center">
+  <img src="images/noor-today.png" width="19%" alt="Today screen" />
+  <img src="images/noor-prayer.png" width="19%" alt="Prayer times screen" />
+  <img src="images/noor-quran.png" width="19%" alt="Quran screen" />
+  <img src="images/noor-library.png" width="19%" alt="Library screen" />
+  <img src="images/noor-saluni.png" width="19%" alt="Saluni screen" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/English%20%7C%20Urdu%20%7C%20Arabic-1A2724?style=flat-square" alt="Languages" />
+  <img src="https://img.shields.io/badge/Offline%20Ready-E3CB8E?style=flat-square&labelColor=0C1513" alt="Works offline" />
+</p>
+
+[View the repository](https://github.com/codewithijlal/noor)
 
 ## GitHub Activity
 
