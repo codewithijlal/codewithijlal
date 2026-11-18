@@ -1,4 +1,4 @@
-<img src="banner (1).svg" width="100%" alt="Syed Ijlal Haider, Full Stack Web and Mobile App Developer" />
+<a href="#featured-project"><img src="profile-banner.png" width="100%" alt="Syed Ijlal Haider, Full Stack Web and Mobile App Developer" /></a>
 
 ## About Me
 
