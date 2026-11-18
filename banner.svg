@@ -1,32 +1,24 @@
-<p align="center">
-  <img src="banner.svg" width="100%" alt="Syed Ijlal Haider, Full Stack Web and Mobile App Developer" />
-</p>
+<img src="banner.svg" width="100%" alt="Syed Ijlal Haider, Full Stack Web and Mobile App Developer" />
 
-<h2>About Me</h2>
+## About Me
 
-<p>Hi, I'm Ijlal. I build web and mobile apps, and I enjoy taking an idea all the way from a rough sketch to something people can actually use.</p>
+Hi, I'm Ijlal. I build web and mobile apps, and I enjoy taking an idea all the way from a rough sketch to something people can actually use.
 
-<p>On the web side I mostly work with Next.js, React and TypeScript, styled with Tailwind CSS. For mobile I use Flutter with Dart, and React Native when a project fits better in the JavaScript world. Behind the apps I set up and manage databases like PostgreSQL, MySQL, MariaDB, MongoDB and Supabase.</p>
+On the web side I mostly work with Next.js, React and TypeScript, styled with Tailwind CSS. For mobile I use Flutter with Dart, and React Native when a project fits better in the JavaScript world. Behind the apps I set up and manage databases like PostgreSQL, MySQL, MariaDB, MongoDB and Supabase.
 
-<p>I care about clean code, fast load times and interfaces that feel simple to use. Right now I'm open to freelance work and interesting collaborations, so feel free to reach out.</p>
+I care about clean code, fast load times and interfaces that feel simple to use. Right now I'm open to freelance work and interesting collaborations, so feel free to reach out.
 
 <br />
 
-<p align="center">
-  <img src="skills.svg" width="100%" alt="Skills: Next.js, React, TypeScript, JavaScript, Tailwind CSS, Flutter, Dart, React Native, PostgreSQL, SQL, MariaDB, MongoDB, Supabase" />
-</p>
+<img src="skills.svg" width="100%" alt="Skills: Next.js, React, TypeScript, JavaScript, Tailwind CSS, Flutter, Dart, React Native, PostgreSQL, SQL, MariaDB, MongoDB, Supabase" />
 
-<h2>Featured Project</h2>
+## Featured Project
 
-<p align="center">
-  <a href="https://github.com/codewithijlal/noor">
-    <img src="noor-preview.png" width="100%" alt="Noor app preview" />
-  </a>
-</p>
+<a href="https://github.com/codewithijlal/noor"><img src="noor-preview.png" width="100%" alt="Noor app preview" /></a>
 
-<h3>Noor</h3>
+### Noor
 
-<p>Noor is a Shia companion app I built with React Native and Expo. It brings together prayer times, the Quran, hadith, du'as and ziyarat in one place, and it works in English, Urdu and Arabic. It's free, has no ads and works offline, because I wanted something people could rely on anywhere without distractions.</p>
+Noor is a Shia companion app I built with React Native and Expo. It brings together prayer times, the Quran, hadith, du'as and ziyarat in one place, and it works in English, Urdu and Arabic. It's free, has no ads and works offline, because I wanted something people could rely on anywhere without distractions.
 
 <p align="center">
   <img src="noor-today.png" width="19%" alt="Today screen" />
@@ -43,17 +35,17 @@
   <img src="https://img.shields.io/badge/Offline%20Ready-E3CB8E?style=flat-square&labelColor=0C1513" alt="Works offline" />
 </p>
 
-<p><a href="https://github.com/codewithijlal/noor">View the repository</a></p>
+[View the repository](https://github.com/codewithijlal/noor)
 
-<h2>GitHub Activity</h2>
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=codewithijlal&theme=tokyonight&hide_border=true" width="70%" alt="GitHub streak" />
 </p>
 
-<h2>Get in Touch</h2>
+## Get in Touch
 
-<p>If you have a project in mind or just want to talk about code, I'm always happy to hear from people.</p>
+If you have a project in mind or just want to talk about code, I'm always happy to hear from people.
 
 <p>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
