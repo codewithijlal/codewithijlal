@@ -1,72 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b0f17"/>
-      <stop offset="1" stop-color="#111827"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38bdf8"/>
-      <stop offset="1" stop-color="#818cf8"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0.82" cy="0.3" r="0.6">
-      <stop offset="0" stop-color="#6366f1" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#1f2937"/>
-    </pattern>
-  </defs>
+<p align="center">
+  <img src="banner.svg" width="100%" alt="Syed Ijlal Haider, Full Stack Web and Mobile App Developer" />
+</p>
 
-  <rect width="1200" height="380" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="380" rx="18" fill="url(#dots)"/>
-  <rect width="1200" height="380" rx="18" fill="url(#glow)"/>
-  <rect x="0.5" y="0.5" width="1199" height="379" rx="18" fill="none" stroke="#1f2937"/>
+<h2>About Me</h2>
 
-  <!-- Left side -->
-  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
-    <rect x="64" y="70" width="190" height="30" rx="15" fill="#0f172a" stroke="#1e3a5f"/>
-    <circle cx="84" cy="85" r="5" fill="#22c55e">
-      <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <text x="98" y="90" font-size="14" fill="#94a3b8">Available for work</text>
+<p>Hi, I'm Ijlal. I build web and mobile apps, and I enjoy taking an idea all the way from a rough sketch to something people can actually use.</p>
 
-    <text x="64" y="160" font-size="54" font-weight="700" fill="#f8fafc" letter-spacing="1">Syed Ijlal Haider</text>
-    <rect x="66" y="180" width="90" height="4" rx="2" fill="url(#accent)"/>
-    <text x="64" y="224" font-size="24" fill="#cbd5e1">Full Stack Web and Mobile App Developer</text>
+<p>On the web side I mostly work with Next.js, React and TypeScript, styled with Tailwind CSS. For mobile I use Flutter with Dart, and React Native when a project fits better in the JavaScript world. Behind the apps I set up and manage databases like PostgreSQL, MySQL, MariaDB, MongoDB and Supabase.</p>
 
-    <g font-size="15" fill="#94a3b8">
-      <rect x="64" y="258" width="92" height="32" rx="8" fill="#111c2e" stroke="#1e293b"/>
-      <text x="110" y="279" text-anchor="middle">Next.js</text>
-      <rect x="166" y="258" width="84" height="32" rx="8" fill="#111c2e" stroke="#1e293b"/>
-      <text x="208" y="279" text-anchor="middle">React</text>
-      <rect x="260" y="258" width="88" height="32" rx="8" fill="#111c2e" stroke="#1e293b"/>
-      <text x="304" y="279" text-anchor="middle">Flutter</text>
-      <rect x="358" y="258" width="128" height="32" rx="8" fill="#111c2e" stroke="#1e293b"/>
-      <text x="422" y="279" text-anchor="middle">React Native</text>
-      <rect x="496" y="258" width="110" height="32" rx="8" fill="#111c2e" stroke="#1e293b"/>
-      <text x="551" y="279" text-anchor="middle">TypeScript</text>
-    </g>
+<p>I care about clean code, fast load times and interfaces that feel simple to use. Right now I'm open to freelance work and interesting collaborations, so feel free to reach out.</p>
 
-    <text x="64" y="330" font-size="14" fill="#64748b">github.com/codewithijlal</text>
-  </g>
+<br />
 
-  <!-- Code window -->
-  <g transform="translate(720 62)">
-    <rect width="420" height="256" rx="12" fill="#0d1321" stroke="#24304a"/>
-    <path d="M0 12a12 12 0 0 1 12-12h396a12 12 0 0 1 12 12v24H0z" fill="#131b2e"/>
-    <circle cx="20" cy="18" r="5.5" fill="#f87171"/>
-    <circle cx="38" cy="18" r="5.5" fill="#fbbf24"/>
-    <circle cx="56" cy="18" r="5.5" fill="#34d399"/>
-    <text x="210" y="23" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="12" fill="#64748b">developer.ts</text>
+<p align="center">
+  <img src="skills.svg" width="100%" alt="Skills: Next.js, React, TypeScript, JavaScript, Tailwind CSS, Flutter, Dart, React Native, PostgreSQL, SQL, MariaDB, MongoDB, Supabase" />
+</p>
 
-    <g font-family="Consolas, 'Courier New', monospace" font-size="14.5" xml:space="preserve">
-      <text x="22" y="70"><tspan fill="#c084fc">const</tspan><tspan fill="#e2e8f0"> ijlal </tspan><tspan fill="#94a3b8">=</tspan><tspan fill="#e2e8f0"> {</tspan></text>
-      <text x="44" y="96"><tspan fill="#7dd3fc">role</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#86efac">"Full Stack Developer"</tspan><tspan fill="#94a3b8">,</tspan></text>
-      <text x="44" y="122"><tspan fill="#7dd3fc">web</tspan><tspan fill="#94a3b8">: [</tspan><tspan fill="#86efac">"Next.js"</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#86efac">"React"</tspan><tspan fill="#94a3b8">],</tspan></text>
-      <text x="44" y="148"><tspan fill="#7dd3fc">mobile</tspan><tspan fill="#94a3b8">: [</tspan><tspan fill="#86efac">"Flutter"</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#86efac">"React Native"</tspan><tspan fill="#94a3b8">],</tspan></text>
-      <text x="44" y="174"><tspan fill="#7dd3fc">data</tspan><tspan fill="#94a3b8">: [</tspan><tspan fill="#86efac">"Postgres"</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#86efac">"MongoDB"</tspan><tspan fill="#94a3b8">],</tspan></text>
-      <text x="44" y="200"><tspan fill="#7dd3fc">shipping</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#fbbf24">true</tspan></text>
-      <text x="22" y="226"><tspan fill="#e2e8f0">};</tspan><tspan fill="#38bdf8">▍<animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
-    </g>
-  </g>
-</svg>
+<h2>Featured Project</h2>
+
+<p align="center">
+  <a href="https://github.com/codewithijlal/noor">
+    <img src="noor-preview.png" width="100%" alt="Noor app preview" />
+  </a>
+</p>
+
+<h3>Noor</h3>
+
+<p>Noor is a Shia companion app I built with React Native and Expo. It brings together prayer times, the Quran, hadith, du'as and ziyarat in one place, and it works in English, Urdu and Arabic. It's free, has no ads and works offline, because I wanted something people could rely on anywhere without distractions.</p>
+
+<p align="center">
+  <img src="noor-today.png" width="19%" alt="Today screen" />
+  <img src="noor-prayer.png" width="19%" alt="Prayer times screen" />
+  <img src="noor-quran.png" width="19%" alt="Quran screen" />
+  <img src="noor-library.png" width="19%" alt="Library screen" />
+  <img src="noor-saluni.png" width="19%" alt="Saluni screen" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/English%20%7C%20Urdu%20%7C%20Arabic-1A2724?style=flat-square" alt="Languages" />
+  <img src="https://img.shields.io/badge/Offline%20Ready-E3CB8E?style=flat-square&labelColor=0C1513" alt="Works offline" />
+</p>
+
+<p><a href="https://github.com/codewithijlal/noor">View the repository</a></p>
+
+<h2>GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=codewithijlal&theme=tokyonight&hide_border=true" width="70%" alt="GitHub streak" />
+</p>
+
+<h2>Get in Touch</h2>
+
+<p>If you have a project in mind or just want to talk about code, I'm always happy to hear from people.</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/codewithijlal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
